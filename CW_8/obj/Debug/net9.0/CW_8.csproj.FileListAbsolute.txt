@@ -1,0 +1,7 @@
+C:\Users\qbas1\RiderProjects\CW_8\CW_8\obj\Debug\net9.0\CW_8.csproj.AssemblyReference.cache
+C:\Users\qbas1\RiderProjects\CW_8\CW_8\obj\Debug\net9.0\CW_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qbas1\RiderProjects\CW_8\CW_8\obj\Debug\net9.0\CW_8.AssemblyInfoInputs.cache
+C:\Users\qbas1\RiderProjects\CW_8\CW_8\obj\Debug\net9.0\CW_8.AssemblyInfo.cs
+C:\Users\qbas1\RiderProjects\CW_8\CW_8\obj\Debug\net9.0\CW_8.csproj.CoreCompileInputs.cache
+C:\Users\qbas1\RiderProjects\CW_8\CW_8\obj\Debug\net9.0\CW_8.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\qbas1\RiderProjects\CW_8\CW_8\obj\Debug\net9.0\CW_8.MvcApplicationPartsAssemblyInfo.cache
